@@ -1,0 +1,19 @@
+{
+    "name": "ai.onnxruntime",
+    "version": "1.0.1",
+    "displayName": "Onnxruntime Unity",
+    "description": "onnxruntime for unity",
+    "author": {
+        "name": "onnxruntime",
+        "url": "https://onnxruntime.ai/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xue-fei/onnxruntime-unity-directml"
+    },
+    "keywords": [
+        "unity",
+        "onnxruntime"
+    ],
+    "license": "MIT"
+}
