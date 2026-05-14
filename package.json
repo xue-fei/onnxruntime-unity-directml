@@ -15,5 +15,8 @@
     "unity",
     "onnxruntime"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "onnxruntime": "https://github.com/xue-fei/onnxruntime-unity.git#main"
+  }
 }
